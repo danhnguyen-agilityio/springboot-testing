@@ -103,7 +103,7 @@
                         --illegal-access=permit
                     </argLine>
                     <!--<groups>model</groups>-->
-                    <excludedGroups>model</excludedGroups>
+                    <!--<excludedGroups>model</excludedGroups>-->
                 </configuration>
             </plugin>
             <plugin>
