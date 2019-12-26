@@ -1,4 +1,4 @@
-
+[![CircleCI](https://circleci.com/gh/danhnguyen-agilityio/springboot-testing.svg?style=svg)](https://circleci.com/gh/danhnguyen-agilityio/springboot-testing)
 
 # Introduction to JUnit 5 with Maven
 
