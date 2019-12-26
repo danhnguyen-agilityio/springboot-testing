@@ -34,7 +34,7 @@ class OwnerTest implements ModelTests {
                         () -> assertEquals("1231231234", owner.getTelephone())
                 ));
 
-        assertThat(owner.getCity(), is("Key West"));
+        assertThat(owner.getCity(), is("Key West Demos"));
     }
 
     @DisplayName("Value Source Test")
